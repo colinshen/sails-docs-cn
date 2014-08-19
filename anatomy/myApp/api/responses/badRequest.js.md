@@ -1,11 +1,11 @@
 # myApp/api/responses/badRequest.js
 ### 作用
 
-在一个新的Sails项目中，badRequest是服务器默认相应之一。
+在一个新的Sails项目中，badRequest是服务器默认响应之一。
 
-它包含什么事情应该发生在你希望发出一个HTTP 400 相应的逻辑。他可以在任何一个地方使用，你只需要访问express的'res'类，调用res.badRequest。
+它包含什么事情应该发生在你希望发出一个HTTP 400 响应的逻辑。他可以在任何一个地方使用，你只需要访问express的'res'类，调用res.badRequest。
 
-你可以编辑本文件来满足你自己的需求，并且可以使用我们的`sails-generate-custom-response`创建器创建一个自定义相应。
+你可以编辑本文件来满足你自己的需求，并且可以使用我们的`sails-generate-custom-response`创建器创建一个自定义响应。
 
 浏览参考文档的响应部分获取更多信息。
 
