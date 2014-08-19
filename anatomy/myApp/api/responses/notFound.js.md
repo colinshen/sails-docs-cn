@@ -1,14 +1,13 @@
 # myApp/api/responses/notFound.js
-### Purpose
+### 作用
 
-This is one of the default Server Responses included in a new Sails project.
+在一个新的Sails项目中，notFound是服务器默认响应之一。
 
-It contains the logic for what should happen when you wish to issue an http 404 response. It can be issued from anywhere you have access to the express `res` object by calling res.notFound.
+它包含什么事情应该发生在你希望发出一个HTTP 404 响应的逻辑。他可以在任何一个地方使用，你只需要访问express的'res'类，调用res.notFound。
 
-Feel free to edit this file to suit your needs.  You can also create a custom response using our `sails-generate-custom-response` generator.
+你可以编辑本文件来满足你自己的需求，并且可以使用我们的`sails-generate-custom-response`创建器创建一个自定义响应。
 
-See the Response section of Reference Documentation for more info.
-
+浏览参考文档的响应部分获取更多信息。
 <docmeta name="uniqueID" value="notFoundjs935866">
 <docmeta name="displayName" value="notFound.js">
 
