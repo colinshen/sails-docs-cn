@@ -1,7 +1,7 @@
 # myApp/api
 ### 作用
 
-该文件夹包含绝大多数应用的后端逻辑，是‘M’ and ‘C’ 在[MVC Framework](http://http://zh.wikipedia.org/wiki/MVC)的大本营.
+该文件夹包含了绝大多数你的应用的后端逻辑，是‘M’ 和 ‘C’ 在[MVC 框架](http://http://zh.wikipedia.org/wiki/MVC)中的大本营.
 
 该文件夹包含：
 - 控制器：控制器包含你的应用的多数后端逻辑。
