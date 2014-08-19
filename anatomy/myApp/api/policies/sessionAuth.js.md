@@ -1,9 +1,8 @@
 # myApp/api/policies/sessionAuth.js
-### Purpose
-This is an example policy file against which all routes are checked before allowing a client access to any part of your app.  By default, it allows everyone to access everything but this can (and probably should) be changed before you switch into production mode.     
+### 作用
+prolicy（策略）实例，所有的路由都会被检查在允许客户端访问你的应用的任何一部分。默认情况下，允许任何人访问所有内容，但是在 进入产品模式之前你应该改变这种访问状态。
 
-In Sails, a policy is simply express middleware that does something to authenticate users before they are allowed to access some part of your app.  For more information on creating policies, you'll probably want to check our guide on it.
-
+在Sails中，‘policy（策略）’是在用户被允许访问你的应用的某一些部分之前认证用户的express中间件。关于更多创建policies（策略）的内容，你需要浏览浏览Sails的帮助文档。
 <docmeta name="uniqueID" value="sessionAuthjs444151">
 <docmeta name="displayName" value="sessionAuth.js">
 
