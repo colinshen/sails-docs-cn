@@ -1,8 +1,8 @@
 # myApp/api/policies
-### Purpose
-This is the folder you will store your `policy` files in.  A policy file is a .js file that contains what is essentially express middleware for authenticating access to controller actions in your app.  
+### 作用
+这个文件夹将存放你所有的‘policy（策略）’文件。policy是一个js文件，在你的应用中，它的本质是express的认证中间件用于访问控制器的认证。
 
-If you want to make sure only the user `rick1983` can access `http://prism.gov/rick1983` , this is the folder you would put that logic in. 
+如果你想要确保只有用户“rick1983”可以访问`http://prism.gov/rick1983`，你需要把你的逻辑代码存放到该文件夹。
 
 <docmeta name="uniqueID" value="policiesmd630211">
 <docmeta name="displayName" value="policies">
