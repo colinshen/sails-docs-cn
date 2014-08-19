@@ -1,13 +1,14 @@
 # myApp/api/responses/forbidden.js
-### Purpose
+### 作用
 
-This is one of the default Server Responses included in a new Sails project.
 
-It contains the logic for what should happen when you wish to issue an http 403 response. It can be issued from anywhere you have access to the express `res` object by calling res.forbidden.
+在一个新的Sails项目中，forbidden是服务器默认响应之一。
 
-Feel free to edit this file to suit your needs.  You can also create a custom response using our `sails-generate-custom-response` generator.
+它包含什么事情应该发生在你希望发出一个HTTP 403 响应的逻辑。他可以在任何一个地方使用，你只需要访问express的'res'类，调用res.forbidden。
 
-See the Response section of Reference Documentation for more info.
+你可以编辑本文件来满足你自己的需求，并且可以使用我们的sails-generate-custom-response创建器创建一个自定义响应。
+
+浏览参考文档的响应部分获取更多信息。
 
 <docmeta name="uniqueID" value="forbiddenjs655137">
 <docmeta name="displayName" value="forbidden.js">
