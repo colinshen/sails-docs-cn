@@ -21,7 +21,7 @@ module.exports = {
 
 ```
 
-You would call this service with ` Email.send('rick','bill','lol') `
+实用该服务 ` Email.send('rick','bill','lol') `
 
 
 > Mind your case.  Email.send !== email.send
